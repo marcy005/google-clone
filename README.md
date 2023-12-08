@@ -11,7 +11,7 @@ Para llevar a cabo este proyecto utilizamos el editor *Visual Studio Code* y los
 ## Elementos en el proyecto
 <ol>
   <li>Menú de navegación</li>
-  <li>Logo e input de busqueda</li>
+  <li>Logo e input de búsqueda</li>
   <li>Menú de footer</li>
 </ol>
 
