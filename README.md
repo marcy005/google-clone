@@ -2,6 +2,7 @@
 
 ## Descripción
 Hi, this is my firts project a Google clone interface. 🥳
+
 Para llevar a cabo este proyecto utilizamos el editor *Visual Studio Code* y los lenguajes **HTML y CSS**.
 
 ### Vista previa
